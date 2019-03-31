@@ -1,0 +1,2 @@
+# japanese-translations
+Japanese Translations
